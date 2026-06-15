@@ -3,12 +3,6 @@
 
 <div align="center">
 
-[![Open Profile README](https://img.shields.io/badge/Profile%20README-Open%20Full%20Portfolio-6366f1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdulrehman986785-coder/abdulrehman986785-coder)
-
-</div>
-
-<div align="center">
-
 ### Senior Software Development Engineer · Mobile Application Developer · RAG & ML Specialist
 
 **Senior SDE @ Sovanza** · Lahore, Pakistan · **BSCS** @ FAST-NUCES (2024)
